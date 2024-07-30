@@ -37,3 +37,7 @@
 ### 案例8
 1. 因为chnrenhao_dev的PR中水调歌头不完整，因此先revert PR
 ![img_8.png](img_8.png)
+
+### 案例9
+1. renhaowk_dev提交PR到develop
+![img_9.png](img_9.png)
