@@ -20,6 +20,7 @@
 
 ### 案例5
 1. 修改选中commit的commit message
+因为既有的commit无法修改，只能从正确的“添加git案例2操作说明”后新建一个commit，命名为“添加git案例3操作说明”，同时创建后续节点并merge
 #### renhaowk_dev分支视角
 ![img_4.png](img_4.png)
 #### 所有分支视角
