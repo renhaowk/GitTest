@@ -17,3 +17,10 @@
 ### 案例4
 1. chnrenhao_dev merge了develop
 ![img_3.png](img_3.png)
+
+### 案例5
+1. 修改选中commit的commit message
+#### renhaowk_dev分支视角
+![img_4.png](img_4.png)
+#### 所有分支视角
+![img_5.png](img_5.png)
