@@ -29,3 +29,11 @@
 ### 案例6
 1. chnrenhao_dev提交PR到develop
 ![img_6.png](img_6.png)
+
+### 案例7
+1. renhaowk_dev提交PR到develop
+![img_7.png](img_7.png)
+
+### 案例8
+1. 因为chnrenhao_dev的PR中水调歌头不完整，因此先revert PR
+![img_8.png](img_8.png)
