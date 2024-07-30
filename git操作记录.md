@@ -25,3 +25,7 @@
 ![img_4.png](img_4.png)
 #### 所有分支视角
 ![img_5.png](img_5.png)
+
+### 案例6
+1. chnrenhao_dev提交PR到develop
+![img_6.png](img_6.png)
