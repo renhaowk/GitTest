@@ -29,3 +29,8 @@
 ### 案例6
 1. chnrenhao_dev提交PR到develop
 ![img_6.png](img_6.png)
+
+### 案例7
+1. renhaowk_dev提交PR到develop
+2. renhaowk_dev添加了案例7的操作说明
+![img_7.png](img_7.png)
