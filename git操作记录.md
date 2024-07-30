@@ -8,3 +8,8 @@
 1. renhaowk_dev提交PR到develop
 2. renhaowk_dev添加了案例1的操作说明
 ![img_1.png](img_1.png)
+
+### 案例3
+1. merge develop到master
+2. renhaowk_dev添加了案例2的操作说明
+![img_2.png](img_2.png)
